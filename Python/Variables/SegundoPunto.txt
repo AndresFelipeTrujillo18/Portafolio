@@ -1,0 +1,4 @@
+Líneas totales: 9
+Palabras totales: 44
+Caracteres totales: 248
+Cantidad de veces de 'podrá': en el texto 5
